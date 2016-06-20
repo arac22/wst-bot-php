@@ -36,7 +36,7 @@ elseif($text=="domanda 2")
 }
 else
 {
-	$response =  $text . " ??? ... non è una gran domanda ...";
+	$response =  $text . " ... non accapisco la dimanda  ...";
 }
 
 $parameters = array('chat_id' => $chatId, "text" => $response);
