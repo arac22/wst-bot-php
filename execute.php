@@ -40,7 +40,7 @@ elseif(
 	|| (strpos($text, 'apertura') !== false)
 	)
 {
-	$response = "siamo aperti dalle 8.30 alle 13.00 tutti i giorni tranne la Domenica ... e il Sabato.";
+	$response = "siamo aperti dalle 8.30 alle 13.00 tutti i giorni tranne la Domenica ... e il Sabato ... e il Lunedì.";
 }
 else
 {
